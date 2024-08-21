@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bot0gm0likd75"]
+
+[ext_resource type="Script" path="res://addons/meuplugin/SpriteSpawner.gd" id="1_nnbeo"]
+
+[node name="SpriteSpawner" type="Node2D"]
+script = ExtResource("1_nnbeo")

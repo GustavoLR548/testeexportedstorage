@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bcno5wb5xhd0x"]
+
+[ext_resource type="Script" path="res://addons/meuplugin/SpriteSpawnerHolder.gd" id="1_1p340"]
+
+[node name="SpriteSpawnerHolder" type="Node2D"]
+script = ExtResource("1_1p340")
